@@ -42,7 +42,7 @@ In the fast-moving world of eCommerce, accurate data modeling is essential for e
 - **SQL** (PostgreSQL / MySQL for modeling and querying)  
 - **drawSQL** (to show relationship and data modelling)
 
-## Relationships##
+## Relationships ##
 
 
 ![image](https://github.com/user-attachments/assets/96ac27dc-c2af-4430-ab41-7e99604fa9e5)
