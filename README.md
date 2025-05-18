@@ -116,10 +116,12 @@ INSERT INTO orders (order_id, order_date, customer_id, product_id, transaction_i
      
 -- Sample queries
 
-**SELECT * FROM customers;**
+``` SELECT * FROM customers; ```
+
 ![image](https://github.com/user-attachments/assets/ed154717-332d-4176-9bb4-016fdc0a0155)
 
-**SELECT * FROM orders;**
+``` SELECT * FROM orders; ```
+
 ![image](https://github.com/user-attachments/assets/a11cf3d4-11e5-470e-a34a-bcdca779c8e0)
 
 
