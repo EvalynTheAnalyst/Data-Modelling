@@ -1,4 +1,4 @@
-# Ecommerce DataBase Modelling
+# E-commerce Data Modelling
 
 ## Introduction ##
 This repository showcases a robust and scalable data model designed to power analytics and reporting for eCommerce platforms. The goal is to transform raw transactional and operational data into meaningful insights that support smarter business decisions.
